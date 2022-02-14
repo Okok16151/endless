@@ -1,0 +1,75 @@
+{
+	"songs": [
+		[
+			"diamond",
+			"sonic",
+			[
+				93,
+				179,
+				255
+			]
+		],
+		[
+			"blossom",
+			"sonic",
+			[
+				93,
+				179,
+				255
+			]
+		],
+		[
+			"ice",
+			"sonic",
+			[
+				3,
+				9,
+				55
+			]
+		],
+		[
+			"wind",
+			"sonic",
+			[
+				3,
+				9,
+				55
+			]
+		],
+		[
+			"endless",
+			"sonic",
+			[
+				3,
+				9,
+				55
+			]
+		],
+		[
+			"bless",
+			"sonic",
+			[
+				255,
+				194,
+				77
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Ice Cap",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		93,
+		179,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
